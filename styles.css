@@ -444,10 +444,6 @@ section {
         gap: 30px;
     }
     
-    .logo-turkis {
-        order: -1;
-    }
-    
     .community-content {
         flex-direction: column;
     }
